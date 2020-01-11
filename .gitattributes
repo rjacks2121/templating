@@ -45,3 +45,4 @@
 
 # make these file types use lf
 *.sh		eol=lf
+dotnet new3 --debug:attach {{additonal args}}
